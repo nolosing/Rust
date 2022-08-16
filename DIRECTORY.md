@@ -5,6 +5,7 @@
     * [Aes](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/aes.rs)
     * [Another Rot13](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/another_rot13.rs)
     * [Caesar](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/caesar.rs)
+    * [Hashing Traits](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/hashing_traits.rs)
     * [Morse Code](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/morse_code.rs)
     * [Polybius](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/polybius.rs)
     * [Rot13](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/rot13.rs)
